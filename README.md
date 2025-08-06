@@ -49,3 +49,23 @@
 ```bash
 git clone https://github.com/your-username/dog-breed-classifier.git
 cd dog-breed-classifier
+```
+
+2. **Установите зависимости**:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Убедитесь, что у вас есть файл модели**:
+Файл dogs_model.keras должен находиться в корне проекта. Если вы обучаете модель отдельно, сохраните её так:
+```python
+model.save("dogs_model.keras")
+```
+
+4. **Запустите приложение:**:
+```bash
+streamlit run app.py
+```
+
+
