@@ -10,6 +10,7 @@ from breed_translation import breed_translation
 def load_model():
     return tf.keras.models.load_model("dogs_model.keras")
 
+
 # Загрузка списка пород
 @st.cache_data
 def load_class_names():

@@ -42,6 +42,11 @@
 
 ---
 
+## Проект на Streamlit
+
+Streamlit: [Классификатор собак](https://appdogsbreedclassifier-fh45x5cnnbxdez2edbqk8y.streamlit.app/)
+
+
 ## 🧾 Установка и запуск
 
 1. **Клонируйте репозиторий**:

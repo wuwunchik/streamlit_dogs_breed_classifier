@@ -1,4 +1,5 @@
 # Словарь с переводом пород на русский язык
+
 breed_translation = {
     "Affenpinscher": "Аффенпинчер",
     "Afghan_hound": "Афганская борзая",
